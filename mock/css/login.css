@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.login-form{
+ margin: 0 auto;
+ width: 400px;
+ margin-top: 30px;
+}
+
+.login-form2{
+margin: 0 auto;
+ width: 500px;
+ margin-top: 30px;
+}
+.login-input-area {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+
+.login-input-area2{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.user-input-area{
+	margin-top:30px;
+}
+
+.user-list-form{
+	width:600px;
+	margin: 0 auto;
+}
+
+.span.sample5 {
+	font-size: 100%;
+}
+
+.div.button {
+text-align:center;
+}
+.div.button  {
+margin: 0px 20px;
+}
